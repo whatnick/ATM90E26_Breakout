@@ -167,8 +167,8 @@
 <text x="16.51" y="21.4122" size="0.8128" layer="21" font="vector" ratio="20">ATM90E26
 Breakout</text>
 <text x="24.2062" y="25.0698" size="0.8128" layer="22" font="vector" ratio="20" rot="MR0">by Tisham Dhar</text>
-<text x="29.0322" y="23.8252" size="0.8128" layer="22" font="vector" ratio="20" rot="MR0">http://whatnicklife.blogspot.com</text>
-<text x="24.7396" y="22.5806" size="0.8128" layer="22" font="vector" ratio="20" rot="MR0">v1.0 03/04/2016</text>
+<text x="25.2222" y="23.8252" size="0.8128" layer="22" font="vector" ratio="20" rot="MR0">http://whatnick.com</text>
+<text x="24.7396" y="22.5806" size="0.8128" layer="22" font="vector" ratio="20" rot="MR0">v1.1 13/09/2016</text>
 <text x="13.462" y="24.003" size="0.8128" layer="21" font="vector" ratio="20">MAX Vrms = 600mV</text>
 <text x="25.3238" y="3.9116" size="0.8128" layer="25" font="vector" ratio="20" rot="R90">VN</text>
 <text x="28.067" y="3.9116" size="0.8128" layer="25" font="vector" ratio="20" rot="R90">VP</text>
